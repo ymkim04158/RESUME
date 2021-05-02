@@ -1,6 +1,5 @@
-<img src="picture.jpg" width="120px" height="160px" align="right" />
-
 # RESUME
+<img src="picture.jpg" width="120px" height="160px" align="right" />
 
 * 이름 : 김영민
 * 최종학력 : 대졸 (고베대학교, 기계공학과, '13.04 ~ '19.03)
