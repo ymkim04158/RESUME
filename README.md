@@ -47,7 +47,7 @@
   * Python 연동 또는 HeildiSQL을 통한 DB 작업
 
 # 프로젝트 경험
-* 쇼카 (Show car)
+* 쇼카 (Show car) [link : https://github.com/tyeong2/SSAC_final]
   * 개발기간 : '21.02 ~ '21.04
   * 개발목표 : AI로 생성된 새롭고 다양한 자동차 디자인을 제시해줌으로써 고객들에게 차량 외관 디자인 선택에 다양성을 제공하고자 한다.
   * 개발환경 : Python, Tensorflow, Django, MongoDB
@@ -57,7 +57,7 @@
     * Stylegan2-ada기반 차량 이미지 생성 모델 학습
     * MongoDB 이미지 데이터 적재 및 핸들링
 
-* 데일리 서울여행 플래너 [link : ]
+* 데일리 서울여행 플래너 [link : https://github.com/tyeong2/SSAC_project_1cha]
   * 개발기간 : '20.12 ~ '21.01
   * 개발목표 : 서울 지역내 관광명소에 대한 정보를 제공하고, 관광명소들을 방문할 경우 교통수단에 따른 최적 경로를 제공하고자 한다.
   * 개발환경 : Python
