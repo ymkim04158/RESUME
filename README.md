@@ -1,3 +1,3 @@
 # RESUME
 
-<img src="picture.jpg" width="450px" height="300px" align="right" />
+<img src="picture.jpg" width="120px" height="160px" align="right" />
