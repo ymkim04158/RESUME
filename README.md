@@ -6,7 +6,7 @@
 * 최종학력 : 대졸
 * 병역이행여부 : 육군 ('14.04 ~ '16.01)
 * E-mail : droiyan277@naver.com
-* GitHub : github.com/ymkim04158
+* GitHub : http://github.com/ymkim04158
 
 # 학력
 * 경주고등학교 ('09.03 ~ '12.02)
