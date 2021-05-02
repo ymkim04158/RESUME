@@ -1,3 +1,3 @@
 # RESUME
 
-<img src="icon.png" align="right" />
+<img src="picture.jpg" align="right" />
